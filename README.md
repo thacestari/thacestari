@@ -5,16 +5,14 @@
 
   <br>
 
-  <div align="center">
   <a href="https://github.com/thacestari">
-    <img width="48%" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/thacestari">
-    <img width="48%" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&theme=tokyonight&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
   </a>
-</div>
 
-  <br>
+  <br><br>
 
   <h3>🛠️ Tecnologias & Ferramentas</h3>
   <div style="display: inline_block; padding: 10px; background-color: #1a1b27; border-radius: 10px;">
