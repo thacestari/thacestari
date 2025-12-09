@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <h1>Olá, seja bem-vindo(a)! 👋</h1>
   
