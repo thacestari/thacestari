@@ -5,14 +5,14 @@
 
   <br>
 
-  <p align="center">
-    <a href="https://github.com/thacestari">
-      <img height="170" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
-    <a href="https://github.com/thacestari">
-      <img height="170" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-    </a>
-  </p>
+  <div align="center">
+  <a href="https://github.com/thacestari">
+    <img width="48%" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/thacestari">
+    <img width="48%" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
   <br>
 
