@@ -6,10 +6,10 @@
   <br>
 
   <a href="https://github.com/thacestari">
-    <img height="165" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-three-tau-79.vercel.app/api?username=thacestari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/thacestari">
-    <img height="165" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-three-tau-79.vercel.app/api/top-langs/?username=thacestari&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
   </a>
 
   <br><br>
